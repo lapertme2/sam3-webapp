@@ -1,4 +1,7 @@
 # sam3-webapp
 sam3 web app
 
-# Comming soon
+```bash
+# conda activate sam3
+python sam3_gradio.py
+```
